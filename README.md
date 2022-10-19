@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RussianMope
 - 👀 I’m interested in node.js, (ws, socket.io, . . .)
-- 🌱 I’m currently learning java, express js
+- 🌱 I’m currently learning java
 - 📫 How to reach me RussianMope[RU]#1832
 
 <!---
